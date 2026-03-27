@@ -1,3 +1,1 @@
-hello
-all
 git-test
