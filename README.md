@@ -1,2 +1,2 @@
 git-test
-hello welcome to the training 
+hello welcome to the training .
